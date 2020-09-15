@@ -9,7 +9,7 @@ public class Main
         final double pi = 3.14;
         double cat1, cat2, c, r, s;
         Scanner num = new Scanner(System.in);
-        System.out.println("Ввдеите длину катета ");
+        System.out.println("Введите длину катета ");
         cat1 = num.nextDouble();
 
 
